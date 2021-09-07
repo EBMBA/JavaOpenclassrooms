@@ -1,7 +1,5 @@
 package Debuter.ch1.boucle;
 
-import Debuter.ch1.unicorn.main;
-
 public class boucle {
     
     public static void main(String[] args) {
